@@ -46,7 +46,7 @@ git config --global user.email "youremailaddress@bc.edu"
 git config --global user.name “Your Name”
 ```
 
-6. Relaunch Atom and try pushing your changes again. 
+6. Relaunch Atom and try pushing your changes again.
 
 If steps 4, 5, or 6 did not work, just use the [GitHub Desktop app](https://desktop.github.com).
 
